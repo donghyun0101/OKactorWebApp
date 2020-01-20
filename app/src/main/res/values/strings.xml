@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OK액터</string>
+
+    <string name="message_finish">종료 하시겠습니까?</string>
+    <string name="answer_ok">확인</string>
+    <string name="answer_no">취소</string>
+</resources>
